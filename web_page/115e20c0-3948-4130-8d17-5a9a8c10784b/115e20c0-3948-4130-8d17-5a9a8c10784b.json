@@ -3,7 +3,7 @@
   "previousDesignerVersion" : "1.5.7",
   "id" : "115e20c0-3948-4130-8d17-5a9a8c10784b",
   "name" : "ExampleVacationManagement",
-  "lastUpdate" : 1522399121248,
+  "lastUpdate" : 1536248825025,
   "rows" : [ [ {
     "type" : "container",
     "dimension" : {
@@ -73,7 +73,7 @@
         },
         "text" : {
           "type" : "interpolation",
-          "value" : "Tahiti Vacation Management"
+          "value" : "Tahiti gestion des congés"
         },
         "level" : {
           "type" : "constant",
